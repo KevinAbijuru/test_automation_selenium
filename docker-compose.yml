@@ -1,0 +1,10 @@
+services:
+  selenium-tests:
+    build:
+      context: .
+    image: selenium-tests:local
+    shm_size: "2gb"
+    init: true
+    restart: "no"
+    volumes:
+      - ./logs:/app/logs

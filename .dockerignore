@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.git/
+.gitignore
+.DS_Store
+logs/
+output*.txt
+test_log.txt
+README.md

@@ -1,0 +1,24 @@
+﻿docker :  Container test_automation_selenium-selenium-tests-run-8941fcdf6be6 Creating 
+At line:1 char:1
++ docker compose run --rm selenium-tests 2>&1 | Out-File -FilePath test ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ( Container test...f6be6 Creating :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ Container test_automation_selenium-selenium-tests-run-8941fcdf6be6 Created 
+Link test for ABOUT at URL https://kevinabijuru.github.io/about.html passed successfully!
+Attempting the next test for the next item in the array...
+All tests have been completed. Please check the log file for details. PASS
+Link test for PORTFOLIO at URL https://kevinabijuru.github.io/portfolio.html passed successfully!
+Attempting the next test for the next item in the array...
+All tests have been completed. Please check the log file for details. PASS
+Link test for SERVICES at URL https://kevinabijuru.github.io/services.html passed successfully!
+Attempting the next test for the next item in the array...
+All tests have been completed. Please check the log file for details. PASS
+Link test for CONTACT at URL https://kevinabijuru.github.io/contact.html passed successfully!
+Attempting the next test for the next item in the array...
+All tests have been completed. Please check the log file for details. PASS
+Link test for HOME at URL https://kevinabijuru.github.io/index.html passed successfully!
+Attempting the next test for the next item in the array...
+All tests have been completed. Please check the log file for details. PASS
+End of test for all items. Closing the browser now...

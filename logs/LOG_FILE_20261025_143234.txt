@@ -1,0 +1,6 @@
+Test Title:PORTFOLIO
+Test URL:https://kevinabijuru.github.io/portfolio.html
+Target URL:{'ABOUT': 'https://kevinabijuru.github.io/about.html', 'PORTFOLIO': 'https://kevinabijuru.github.io/portfolio.html', 'SERVICES': 'https://kevinabijuru.github.io/services.html', 'CONTACT': 'https://kevinabijuru.github.io/contact.html', 'HOME': 'https://kevinabijuru.github.io/index.html'}
+Result:PASS
+Time of test:2026-10-25 14:32:34.430533
+----------------------------------------
